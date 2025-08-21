@@ -1,2 +1,2 @@
 # labs
-experiments, code snippets, data projects
+repo for experiments, code snippets, data projects
